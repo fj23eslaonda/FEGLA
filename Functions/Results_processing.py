@@ -3,7 +3,6 @@
 # PACKAGES
 #
 #--------------------------------------------------------
-from pathlib import Path
 from tqdm import tqdm
 import pickle
 import numpy as np

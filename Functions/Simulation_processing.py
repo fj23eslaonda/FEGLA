@@ -13,8 +13,7 @@ from sklearn.cluster import KMeans
 import matplotlib.pyplot as plt
 import seaborn as sns
 from sklearn.preprocessing import MinMaxScaler
-import h5py
-import random
+
 
 #--------------------------------------------------------
 #

@@ -8,7 +8,6 @@ from tqdm import tqdm
 import matplotlib.pyplot as plt
 import xarray as xr
 import argparse
-import numpy as np
 import os
 import sys
 from pathlib import Path

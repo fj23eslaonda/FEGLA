@@ -1,11 +1,10 @@
-import matplotlib.pyplot as plt
+
 import xarray as xr
 import argparse
 import sys
 import os
 import pandas as pd
 from pathlib import Path
-import numpy as np
 
 # Add the parent directory of Functions to the system path
 sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))

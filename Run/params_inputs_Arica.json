@@ -1,5 +1,5 @@
 {
-    "city": "Arica",
+    "city": "Arica",                                                                            
     "filepath": "../Data/Arica/Selected_Flooded_transects.h5",
     "outpath": "../Results",
     "batch_size": 12,
